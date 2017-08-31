@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3932384741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fef1c75811037c710e83780d770d63d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a4acb8235ade13152180b94d0d1679e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6ce19a51999011448644fc01e9cec03, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e47e579f82afe3438ccc64cdba445f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac718b8ce852d1445b8fbe5c323134ac, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Tmp/Prefab/Resources/Low/Human_Male/0106_0003/0106_0003.prefab
+Dependencies:
+- E:/GitProject/NewCharacter/Assets/Tmp/AllResoruces/characters/android/common/common.assetbundle

@@ -1,0 +1,1 @@
+{"sex":0,"avatars":[{"wearpos":"05","resname":"0105_0101","icon":"0105_0101","itemid":"0105_0101","sex":"01"}],"dna":null,"skin":null,"systemface":"0103_0178","faceUrl":null,"useface":false}

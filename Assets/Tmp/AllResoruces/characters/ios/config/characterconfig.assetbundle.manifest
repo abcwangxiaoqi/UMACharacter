@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 284751178
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6da8f093bbf008d4e813a829519a05c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5cdd5f8e16efa3e9e895c5fb0267eab6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fc41dd62b5231b48b29664841c71c72, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Tmp/Prefab/Resources/Config/CharacterConfig.prefab
+Dependencies: []

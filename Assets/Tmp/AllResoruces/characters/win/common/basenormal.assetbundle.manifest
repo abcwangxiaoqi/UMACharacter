@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3344200145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f58597d4161b9c8ebf78a2b0d53c700
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Tmp/Prefab/Resources/baseNormal/512-256.png
+- Assets/Tmp/Prefab/Resources/baseNormal/1024-512.png
+- Assets/Tmp/Prefab/Resources/baseNormal/521-521.png
+- Assets/Tmp/Prefab/Resources/baseNormal/512-512.png
+- Assets/Tmp/Prefab/Resources/baseNormal/256-256.png
+- Assets/Tmp/Prefab/Resources/baseNormal/1024-1024.png
+Dependencies: []

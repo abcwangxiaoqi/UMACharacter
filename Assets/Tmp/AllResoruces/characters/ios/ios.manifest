@@ -1,0 +1,217 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: common/common.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: config/characterconfig.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: height/human_female/human_female.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_3:
+      Name: height/human_female/0202_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_4:
+      Name: height/human_female/0202_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_5:
+      Name: height/human_female/0202_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_6:
+      Name: height/human_female/0204_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_7:
+      Name: height/human_female/0204_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_8:
+      Name: height/human_female/0204_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_9:
+      Name: height/human_female/0205_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_10:
+      Name: height/human_female/0205_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_11:
+      Name: height/human_female/0205_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_12:
+      Name: height/human_female/0206_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_13:
+      Name: height/human_female/0206_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_14:
+      Name: height/human_female/0206_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_15:
+      Name: height/human_male/human_male.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_16:
+      Name: height/human_male/0102_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_17:
+      Name: height/human_male/0102_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_18:
+      Name: height/human_male/0102_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_19:
+      Name: height/human_male/0104_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_20:
+      Name: height/human_male/0104_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_21:
+      Name: height/human_male/0104_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_22:
+      Name: height/human_male/0105_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_23:
+      Name: height/human_male/0105_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_24:
+      Name: height/human_male/0105_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_25:
+      Name: height/human_male/0106_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_26:
+      Name: height/human_male/0106_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_27:
+      Name: height/human_male/0106_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_28:
+      Name: low/human_female/human_female.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_29:
+      Name: low/human_female/0202_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_30:
+      Name: low/human_female/0202_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_31:
+      Name: low/human_female/0202_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_32:
+      Name: low/human_female/0204_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_33:
+      Name: low/human_female/0204_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_34:
+      Name: low/human_female/0204_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_35:
+      Name: low/human_female/0205_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_36:
+      Name: low/human_female/0205_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_37:
+      Name: low/human_female/0205_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_38:
+      Name: low/human_female/0206_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_39:
+      Name: low/human_female/0206_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_40:
+      Name: low/human_female/0206_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_41:
+      Name: low/human_male/human_male.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_42:
+      Name: low/human_male/0102_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_43:
+      Name: low/human_male/0102_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_44:
+      Name: low/human_male/0102_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_45:
+      Name: low/human_male/0104_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_46:
+      Name: low/human_male/0104_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_47:
+      Name: low/human_male/0104_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_48:
+      Name: low/human_male/0105_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_49:
+      Name: low/human_male/0105_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_50:
+      Name: low/human_male/0105_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_51:
+      Name: low/human_male/0106_0001.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_52:
+      Name: low/human_male/0106_0002.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle
+    Info_53:
+      Name: low/human_male/0106_0003.assetbundle
+      Dependencies:
+        Dependency_0: common/common.assetbundle

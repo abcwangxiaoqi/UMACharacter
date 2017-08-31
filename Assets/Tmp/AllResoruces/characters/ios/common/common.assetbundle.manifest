@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3962667794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d693a6fd7413dfe7c3a4d3959847767
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 841fe515b7f8783f74c03205dfdfb406
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac718b8ce852d1445b8fbe5c323134ac, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Tmp/MaterialSamples/Character-single-alphacutoff.asset
+- Assets/Tmp/FBX/Height/Human_Male/Human_Male_Common.png
+- Assets/Tmp/MaterialSamples/Character-double-alphacutoff.asset
+- Assets/Tmp/FBX/Low/Human_Male/Human_Male_Common.png
+- Assets/Tmp/FBX/Height/Human_Female/Human_Female_Common.png
+- Assets/Tmp/MaterialSamples/Character-single.asset
+- Assets/Tmp/MaterialSamples/Character-hair.asset
+Dependencies: []

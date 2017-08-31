@@ -1,0 +1,540 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: common/basenormal.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: human_female/0230_0403.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_2:
+      Name: human_male/0106_0206.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_3:
+      Name: human_female/0210_0102.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_4:
+      Name: human_male/0105_0209.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_5:
+      Name: human_male/0116_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_6:
+      Name: human_female/0205_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_7:
+      Name: human_male/0117_0102.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_8:
+      Name: human_male/0105_0204.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_9:
+      Name: human_male/0104_0210.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_10:
+      Name: human_female/0206_0103.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_11:
+      Name: human_male/0104_0303.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_12:
+      Name: human_male/0106_0202.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_13:
+      Name: human_female/0206_0105.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_14:
+      Name: human_male/0106_0207.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_15:
+      Name: human_female/0205_0105.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_16:
+      Name: human_male/0119_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_17:
+      Name: human_female/0218_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_18:
+      Name: human_female/0216_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_19:
+      Name: human_female/0213_0103.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_20:
+      Name: human_male/0104_0206.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_21:
+      Name: human_female/0209_0102.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_22:
+      Name: human_male/0109_0102.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_23:
+      Name: human_female/0210_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_24:
+      Name: human_female/0230_0402.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_25:
+      Name: human_female/0213_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_26:
+      Name: human_male/0105_0202.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_27:
+      Name: human_male/0104_0209.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_28:
+      Name: human_male/0106_0204.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_29:
+      Name: human_female/0204_0109.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_30:
+      Name: human_female/0204_0108.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_31:
+      Name: human_male/0105_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_32:
+      Name: human_male/0104_0302.assetbundle
+      Dependencies:
+        Dependency_0: common/character-single-alphacutoff.assetbundle
+    Info_33:
+      Name: human_male/0105_0212.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_34:
+      Name: human_male/0105_0110.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_35:
+      Name: human_female/0204_0210.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_36:
+      Name: human_female/human_female.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single.assetbundle
+    Info_37:
+      Name: human_female/0204_0207.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_38:
+      Name: human_female/0230_0404.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_39:
+      Name: human_female/0214_0102.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_40:
+      Name: human_male/0113_0103.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_41:
+      Name: human_male/0119_0103.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_42:
+      Name: human_female/0205_0108.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_43:
+      Name: human_male/0102_0104.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_44:
+      Name: human_female/0204_0301.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_45:
+      Name: human_female/0218_0202.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_46:
+      Name: human_female/0202_0102.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_47:
+      Name: config/characterconfig.assetbundle
+      Dependencies: {}
+    Info_48:
+      Name: human_male/0104_0208.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_49:
+      Name: human_female/0202_0104.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_50:
+      Name: human_male/human_male.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single.assetbundle
+    Info_51:
+      Name: human_male/0104_0304.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_52:
+      Name: human_male/0109_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_53:
+      Name: human_male/0106_0209.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_54:
+      Name: human_male/0106_0205.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_55:
+      Name: human_male/0113_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_56:
+      Name: human_male/0106_0203.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_57:
+      Name: human_female/0202_0103.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_58:
+      Name: human_female/0217_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_59:
+      Name: human_female/0213_0102.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_60:
+      Name: human_female/0204_0106.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_61:
+      Name: human_male/0106_0208.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_62:
+      Name: human_male/0102_0103.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_63:
+      Name: human_male/0104_0207.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_64:
+      Name: human_female/human_female_face.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single.assetbundle
+    Info_65:
+      Name: human_female/0205_0202.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_66:
+      Name: human_male/0105_0207.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_67:
+      Name: human_female/0217_0202.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_68:
+      Name: human_male/0110_0304.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_69:
+      Name: human_male/0102_0206.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_70:
+      Name: human_male/human_male_webface.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single.assetbundle
+    Info_71:
+      Name: human_male/0105_0205.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_72:
+      Name: human_female/0214_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_73:
+      Name: human_male/0119_0102.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_74:
+      Name: human_male/0113_0102.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_75:
+      Name: human_male/0102_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_76:
+      Name: human_male/0102_0102.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_77:
+      Name: human_male/0105_0111.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_78:
+      Name: human_female/0205_0204.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_79:
+      Name: human_female/0205_0109.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_80:
+      Name: human_female/human_female_webface.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single.assetbundle
+    Info_81:
+      Name: human_male/0102_0205.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_82:
+      Name: human_female/0205_0307.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_83:
+      Name: human_female/0230_0401.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_84:
+      Name: human_female/0204_0102.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_85:
+      Name: human_female/0204_0104.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_86:
+      Name: human_female/0204_0303.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_87:
+      Name: human_female/0209_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_88:
+      Name: human_male/human_male_face.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single.assetbundle
+    Info_89:
+      Name: human_female/0218_0203.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_90:
+      Name: human_male/0106_0201.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_91:
+      Name: human_male/0104_0205.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_92:
+      Name: human_female/0206_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_93:
+      Name: human_male/0117_0201.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_94:
+      Name: human_female/0202_0101.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_95:
+      Name: human_male/0110_0303.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_96:
+      Name: human_female/0205_0103.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_97:
+      Name: human_male/0105_0103.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_98:
+      Name: human_male/0105_0206.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_99:
+      Name: human_male/0106_0210.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_100:
+      Name: human_male/0105_0208.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-single-alphacutoff.assetbundle
+    Info_101:
+      Name: common/character-single.assetbundle
+      Dependencies: {}
+    Info_102:
+      Name: common/character-double-alphacutoff.assetbundle
+      Dependencies: {}
+    Info_103:
+      Name: common/character-single-alpha.assetbundle
+      Dependencies: {}
+    Info_104:
+      Name: common/character-single-alphacutoff.assetbundle
+      Dependencies: {}
+    Info_105:
+      Name: common/character-double.assetbundle
+      Dependencies: {}
+    Info_106:
+      Name: human_male/0102_0107.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_107:
+      Name: human_male/0102_0108.assetbundle
+      Dependencies:
+        Dependency_0: common/basenormal.assetbundle
+        Dependency_1: common/character-double-alphacutoff.assetbundle
+    Info_108:
+      Name: human_male/0105_0213.assetbundle
+      Dependencies:
+        Dependency_0: common/character-single-alphacutoff.assetbundle
+    Info_109:
+      Name: human_male/0104_0211.assetbundle
+      Dependencies:
+        Dependency_0: common/character-single-alphacutoff.assetbundle
+    Info_110:
+      Name: human_male/0105_0214.assetbundle
+      Dependencies:
+        Dependency_0: common/character-single-alphacutoff.assetbundle

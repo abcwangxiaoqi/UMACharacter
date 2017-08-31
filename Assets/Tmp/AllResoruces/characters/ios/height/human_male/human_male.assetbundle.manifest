@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3684203389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cee54a378258c5ea3cf77a6390515e11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51e86773491db219f47a7dcd46b35ca1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83d33591a744673429e1681df5574ac0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 461a6e020632b416b879aa3a48c5638e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6f5425369624d74dad25c310ea0d733, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01b68d44e3ab744b98027a983d66b345, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6ce19a51999011448644fc01e9cec03, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f9558e6e7404a242920748f24487bfa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58219a97b7472db44a33ed48d7ec56a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 225228a85d6ce40b8a39f95282f42f5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27fa8d9aba5f64596aba9f576eea8aa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac718b8ce852d1445b8fbe5c323134ac, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Tmp/Prefab/Resources/Height/Human_Male/Human_Male.prefab
+Dependencies:
+- E:/GitProject/NewCharacter/Assets/Tmp/AllResoruces/characters/ios/common/common.assetbundle

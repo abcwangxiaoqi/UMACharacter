@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: c57ca66ada2d6e441b276bd2d4e61b2b
+timeCreated: 1492398554
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 0106_0001
+    100004: Bip001
+    100006: Bip001 Footsteps
+    100008: Bip001 Head
+    100010: Bip001 HeadNub
+    100012: Bip001 L Calf
+    100014: Bip001 L Clavicle
+    100016: Bip001 L Finger0
+    100018: Bip001 L Finger01
+    100020: Bip001 L Finger02
+    100022: Bip001 L Finger0Nub
+    100024: Bip001 L Finger1
+    100026: Bip001 L Finger11
+    100028: Bip001 L Finger12
+    100030: Bip001 L Finger1Nub
+    100032: Bip001 L Finger2
+    100034: Bip001 L Finger21
+    100036: Bip001 L Finger22
+    100038: Bip001 L Finger2Nub
+    100040: Bip001 L Finger3
+    100042: Bip001 L Finger31
+    100044: Bip001 L Finger32
+    100046: Bip001 L Finger3Nub
+    100048: Bip001 L Finger4
+    100050: Bip001 L Finger41
+    100052: Bip001 L Finger42
+    100054: Bip001 L Finger4Nub
+    100056: Bip001 L Foot
+    100058: Bip001 L Forearm
+    100060: Bip001 L Hand
+    100062: Bip001 L Thigh
+    100064: Bip001 L Toe0
+    100066: Bip001 L Toe0Nub
+    100068: Bip001 L UpperArm
+    100070: Bip001 Neck
+    100072: Bip001 Pelvis
+    100074: Bip001 R Calf
+    100076: Bip001 R Clavicle
+    100078: Bip001 R Finger0
+    100080: Bip001 R Finger01
+    100082: Bip001 R Finger02
+    100084: Bip001 R Finger0Nub
+    100086: Bip001 R Finger1
+    100088: Bip001 R Finger11
+    100090: Bip001 R Finger12
+    100092: Bip001 R Finger1Nub
+    100094: Bip001 R Finger2
+    100096: Bip001 R Finger21
+    100098: Bip001 R Finger22
+    100100: Bip001 R Finger2Nub
+    100102: Bip001 R Finger3
+    100104: Bip001 R Finger31
+    100106: Bip001 R Finger32
+    100108: Bip001 R Finger3Nub
+    100110: Bip001 R Finger4
+    100112: Bip001 R Finger41
+    100114: Bip001 R Finger42
+    100116: Bip001 R Finger4Nub
+    100118: Bip001 R Foot
+    100120: Bip001 R Forearm
+    100122: Bip001 R Hand
+    100124: Bip001 R Thigh
+    100126: Bip001 R Toe0
+    100128: Bip001 R Toe0Nub
+    100130: Bip001 R UpperArm
+    100132: Bip001 Spine
+    100134: Bip001 Spine1
+    100136: Global
+    100138: HeadAdjust
+    100140: Human_Male_Rig
+    100142: LeftArmAdjust
+    100144: LeftCheek
+    100146: LeftCheekAdjust
+    100148: LeftEar
+    100150: LeftEarAdjust
+    100152: LeftEye
+    100154: LeftEyeAdjust
+    100156: LeftEyebrowLow
+    100158: LeftEyebrowLowAdjust
+    100160: LeftEyebrowMiddle
+    100162: LeftEyebrowMiddleAdjust
+    100164: LeftEyebrowUp
+    100166: LeftEyebrowUpAdjust
+    100168: LeftEyeGlobe
+    100170: LeftForeArmAdjust
+    100172: LeftForeArmTwist
+    100174: LeftForeArmTwistAdjust
+    100176: LeftGluteus
+    100178: LeftInnerBreast
+    100180: LeftLegAdjust
+    100182: LeftLips
+    100184: LeftLipsAdjust
+    100186: LeftLipsInferior
+    100188: LeftLipsInferiorAdjust
+    100190: LeftLipsSuperiorMiddle
+    100192: LeftLipsSuperiorMiddleAdjust
+    100194: LeftLowCheek
+    100196: LeftLowCheekAdjust
+    100198: LeftLowerLid
+    100200: LeftLowerLidAdjust
+    100202: LeftLowMaxilar
+    100204: LeftLowMaxilarAdjust
+    100206: LeftNose
+    100208: LeftNoseAdjust
+    100210: LeftOuterBreast
+    100212: LeftShoulderAdjust
+    100214: LeftTrapezius
+    100216: LeftUpLegAdjust
+    100218: LeftUpperLid
+    100220: LeftUpperLidAdjust
+    100222: LipsInferior
+    100224: LipsInferiorAdjust
+    100226: LipsSuperior
+    100228: LipsSuperiorAdjust
+    100230: LowerBackAdjust
+    100232: LowerBackBelly
+    100234: Mandible
+    100236: MandibleAdjust
+    100238: NeckAdjust
+    100240: NoseBase
+    100242: NoseBaseAdjust
+    100244: NoseMiddle
+    100246: NoseMiddleAdjust
+    100248: NoseTop
+    100250: NoseTopAdjust
+    100252: Position
+    100254: RightArmAdjust
+    100256: RightCheek
+    100258: RightCheekAdjust
+    100260: RightEar
+    100262: RightEarAdjust
+    100264: RightEye
+    100266: RightEyeAdjust
+    100268: RightEyebrowLow
+    100270: RightEyebrowLowAdjust
+    100272: RightEyebrowMiddle
+    100274: RightEyebrowMiddleAdjust
+    100276: RightEyebrowUp
+    100278: RightEyebrowUpAdjust
+    100280: RightEyeGlobe
+    100282: RightForeArmAdjust
+    100284: RightForeArmTwist
+    100286: RightForeArmTwistAdjust
+    100288: RightGluteus
+    100290: RightInnerBreast
+    100292: RightLegAdjust
+    100294: RightLips
+    100296: RightLipsAdjust
+    100298: RightLipsInferior
+    100300: RightLipsInferiorAdjust
+    100302: RightLipsSuperiorMiddle
+    100304: RightLipsSuperiorMiddleAdjust
+    100306: RightLowCheek
+    100308: RightLowCheekAdjust
+    100310: RightLowerLid
+    100312: RightLowerLidAdjust
+    100314: RightLowMaxilar
+    100316: RightLowMaxilarAdjust
+    100318: RightNose
+    100320: RightNoseAdjust
+    100322: RightOuterBreast
+    100324: RightShoulderAdjust
+    100326: RightTrapezius
+    100328: RightUpLegAdjust
+    100330: RightUpperLid
+    100332: RightUpperLidAdjust
+    100334: Spine1Adjust
+    100336: SpineAdjust
+    400000: 0106_0001
+    400002: //RootNode
+    400004: Bip001
+    400006: Bip001 Footsteps
+    400008: Bip001 Head
+    400010: Bip001 HeadNub
+    400012: Bip001 L Calf
+    400014: Bip001 L Clavicle
+    400016: Bip001 L Finger0
+    400018: Bip001 L Finger01
+    400020: Bip001 L Finger02
+    400022: Bip001 L Finger0Nub
+    400024: Bip001 L Finger1
+    400026: Bip001 L Finger11
+    400028: Bip001 L Finger12
+    400030: Bip001 L Finger1Nub
+    400032: Bip001 L Finger2
+    400034: Bip001 L Finger21
+    400036: Bip001 L Finger22
+    400038: Bip001 L Finger2Nub
+    400040: Bip001 L Finger3
+    400042: Bip001 L Finger31
+    400044: Bip001 L Finger32
+    400046: Bip001 L Finger3Nub
+    400048: Bip001 L Finger4
+    400050: Bip001 L Finger41
+    400052: Bip001 L Finger42
+    400054: Bip001 L Finger4Nub
+    400056: Bip001 L Foot
+    400058: Bip001 L Forearm
+    400060: Bip001 L Hand
+    400062: Bip001 L Thigh
+    400064: Bip001 L Toe0
+    400066: Bip001 L Toe0Nub
+    400068: Bip001 L UpperArm
+    400070: Bip001 Neck
+    400072: Bip001 Pelvis
+    400074: Bip001 R Calf
+    400076: Bip001 R Clavicle
+    400078: Bip001 R Finger0
+    400080: Bip001 R Finger01
+    400082: Bip001 R Finger02
+    400084: Bip001 R Finger0Nub
+    400086: Bip001 R Finger1
+    400088: Bip001 R Finger11
+    400090: Bip001 R Finger12
+    400092: Bip001 R Finger1Nub
+    400094: Bip001 R Finger2
+    400096: Bip001 R Finger21
+    400098: Bip001 R Finger22
+    400100: Bip001 R Finger2Nub
+    400102: Bip001 R Finger3
+    400104: Bip001 R Finger31
+    400106: Bip001 R Finger32
+    400108: Bip001 R Finger3Nub
+    400110: Bip001 R Finger4
+    400112: Bip001 R Finger41
+    400114: Bip001 R Finger42
+    400116: Bip001 R Finger4Nub
+    400118: Bip001 R Foot
+    400120: Bip001 R Forearm
+    400122: Bip001 R Hand
+    400124: Bip001 R Thigh
+    400126: Bip001 R Toe0
+    400128: Bip001 R Toe0Nub
+    400130: Bip001 R UpperArm
+    400132: Bip001 Spine
+    400134: Bip001 Spine1
+    400136: Global
+    400138: HeadAdjust
+    400140: Human_Male_Rig
+    400142: LeftArmAdjust
+    400144: LeftCheek
+    400146: LeftCheekAdjust
+    400148: LeftEar
+    400150: LeftEarAdjust
+    400152: LeftEye
+    400154: LeftEyeAdjust
+    400156: LeftEyebrowLow
+    400158: LeftEyebrowLowAdjust
+    400160: LeftEyebrowMiddle
+    400162: LeftEyebrowMiddleAdjust
+    400164: LeftEyebrowUp
+    400166: LeftEyebrowUpAdjust
+    400168: LeftEyeGlobe
+    400170: LeftForeArmAdjust
+    400172: LeftForeArmTwist
+    400174: LeftForeArmTwistAdjust
+    400176: LeftGluteus
+    400178: LeftInnerBreast
+    400180: LeftLegAdjust
+    400182: LeftLips
+    400184: LeftLipsAdjust
+    400186: LeftLipsInferior
+    400188: LeftLipsInferiorAdjust
+    400190: LeftLipsSuperiorMiddle
+    400192: LeftLipsSuperiorMiddleAdjust
+    400194: LeftLowCheek
+    400196: LeftLowCheekAdjust
+    400198: LeftLowerLid
+    400200: LeftLowerLidAdjust
+    400202: LeftLowMaxilar
+    400204: LeftLowMaxilarAdjust
+    400206: LeftNose
+    400208: LeftNoseAdjust
+    400210: LeftOuterBreast
+    400212: LeftShoulderAdjust
+    400214: LeftTrapezius
+    400216: LeftUpLegAdjust
+    400218: LeftUpperLid
+    400220: LeftUpperLidAdjust
+    400222: LipsInferior
+    400224: LipsInferiorAdjust
+    400226: LipsSuperior
+    400228: LipsSuperiorAdjust
+    400230: LowerBackAdjust
+    400232: LowerBackBelly
+    400234: Mandible
+    400236: MandibleAdjust
+    400238: NeckAdjust
+    400240: NoseBase
+    400242: NoseBaseAdjust
+    400244: NoseMiddle
+    400246: NoseMiddleAdjust
+    400248: NoseTop
+    400250: NoseTopAdjust
+    400252: Position
+    400254: RightArmAdjust
+    400256: RightCheek
+    400258: RightCheekAdjust
+    400260: RightEar
+    400262: RightEarAdjust
+    400264: RightEye
+    400266: RightEyeAdjust
+    400268: RightEyebrowLow
+    400270: RightEyebrowLowAdjust
+    400272: RightEyebrowMiddle
+    400274: RightEyebrowMiddleAdjust
+    400276: RightEyebrowUp
+    400278: RightEyebrowUpAdjust
+    400280: RightEyeGlobe
+    400282: RightForeArmAdjust
+    400284: RightForeArmTwist
+    400286: RightForeArmTwistAdjust
+    400288: RightGluteus
+    400290: RightInnerBreast
+    400292: RightLegAdjust
+    400294: RightLips
+    400296: RightLipsAdjust
+    400298: RightLipsInferior
+    400300: RightLipsInferiorAdjust
+    400302: RightLipsSuperiorMiddle
+    400304: RightLipsSuperiorMiddleAdjust
+    400306: RightLowCheek
+    400308: RightLowCheekAdjust
+    400310: RightLowerLid
+    400312: RightLowerLidAdjust
+    400314: RightLowMaxilar
+    400316: RightLowMaxilarAdjust
+    400318: RightNose
+    400320: RightNoseAdjust
+    400322: RightOuterBreast
+    400324: RightShoulderAdjust
+    400326: RightTrapezius
+    400328: RightUpLegAdjust
+    400330: RightUpperLid
+    400332: RightUpperLidAdjust
+    400334: Spine1Adjust
+    400336: SpineAdjust
+    4300000: 0106_0001
+    9500000: //RootNode
+    13700000: 0106_0001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

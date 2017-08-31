@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2222350623
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5884b023f4893deaf5779ed0c06bd3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf394619fe993483d682d5c8a4e509b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6ce19a51999011448644fc01e9cec03, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e47e579f82afe3438ccc64cdba445f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac718b8ce852d1445b8fbe5c323134ac, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Tmp/Prefab/Resources/Human_Female/0210_0102/0210_0102.prefab
+Dependencies:
+- "E:/\u5DE5\u7A0B\u76EE\u5F55/pxsj-Character/UnityProject-bt/Assets/Tmp/AllResoruces/characters/win/common/basenormal.assetbundle"
+- "E:/\u5DE5\u7A0B\u76EE\u5F55/pxsj-Character/UnityProject-bt/Assets/Tmp/AllResoruces/characters/win/common/character-single-alphacutoff.assetbundle"
